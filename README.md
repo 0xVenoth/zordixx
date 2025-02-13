@@ -1,9 +1,8 @@
-<h1 align="center">Salut, moi c'est Venoth :wave:</h1>
+<h1 align="center">Hello, I'm Venoth :wave:</h1>
 
 <p align="center">
-  IT STUDENT 
+  CURRENTLY IT STUDENT 
 </p>
-
 
 ### :hammer_pick: Mes Compétences
 :pushpin: **Langages & Outils :**  
