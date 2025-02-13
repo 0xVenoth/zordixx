@@ -12,8 +12,10 @@
 
 ### :fire: Mes Projets
 :rocket: **[PixelmonGo](https://pixelmongo.fr)** - 1er Serveur minecraft Pixelmon de france (+300K d'utilisateurs)
-:satellite: **[CobbleStory](https://github.com/TonRepo)** - Projet en cours de développement 
+:satellite: **[CobbleStory](https://cobblestory.fr)** - Projet en cours de développement 
 
 
 ### :mailbox: Me Contacter
 :speech_balloon: Discord : @zordix
+
+
