@@ -1,10 +1,10 @@
-<h1 align="center">Hello, I'm Venoth :wave:</h1>
+<h1 align="center">Hello, I'm Venoth 👋</h1>
 
 <p align="center">
-  CURRENTLY IT STUDENT 
+  <strong>🚀 IT Student | Tech Enthusiast</strong>
 </p>
 
-### ⚡ Technologies utilisées
+## ⚡ Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
@@ -14,12 +14,11 @@
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
 </p>
 
-### :fire: Mes Projets
-:rocket: **[PixelmonGo](https://pixelmongo.fr)** - 1er Serveur minecraft Pixelmon de france (+300K d'utilisateurs) <br></br>
-:satellite: **[CobbleStory](https://cobblestory.fr)** - Projet en cours de développement 
+## 🔥 Projects
+🚀 **[PixelmonGo](https://pixelmongo.fr)** - The #1 Pixelmon Minecraft server in France (+300K users) <br>
+📡 **[CobbleStory](https://cobblestory.fr)** - A project currently in development  
 
-
-### :mailbox: Me Contacter
-:speech_balloon: Discord : @zordix
-
+## 📬 Contact Me
+💬 Discord: `@zordix`  
+---
 
